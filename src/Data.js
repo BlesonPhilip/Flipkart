@@ -148,15 +148,7 @@ export const Data = [
       "https://pizu-prod-cdn-medias.s3.amazonaws.com/sys-master/s3medias1/h9d/hd3/8976171466782/11111922289http%3A/%2Fimages.salsify.com/image/upload/s--jPNYN1Ph--/bkvznldly1ywoqbdrmdb.png_540x540",
     ],
   },
-  {
-    offerPrice: 6999,
-    actualPrice: "9,999",
-    rating: 3,
-    name: "skirt",
-    image: [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKbldj32LBhoozOmGaA-z0cywBwiE_mAzBvtCWC_Vf542bq2Vcb0G5VLL5g9xMDB4gFzecvORU&usqp=CAc",
-    ],
-  },
+  
   
  
   {
