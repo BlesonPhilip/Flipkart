@@ -6,7 +6,7 @@ function App() {
     
     <div className="App">
       <Header />
-      <div style={{display:'flex',flexWrap:'wrap'}}>
+      <div style={{display:'flex',flexWrap:'wrap',justifyContent:'center'}}>
       {Data.map((item)=>(
         <>    
         {/* <img style={{objectFit:'contain',width: "100px" ,padding:"10px" ,backgroundColor:'red'}} src={item.image} alt="images" /> */}

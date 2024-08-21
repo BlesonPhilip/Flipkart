@@ -360,22 +360,4 @@ export const Data = [
     name: "sandal",
     image: ["https://images-na.ssl-images-amazon.com/images/I/41PKHNlxj7L.jpg"],
   },
-  {
-    offerPrice: 8999,
-    actualPrice: "10,999",
-    rating: 4,
-    name: "sandal",
-    image: [
-      "https://www.samedelman.com/blob/product-images/99900/ec/02/32738/ec0232738_pair_large.jpg",
-    ],
-  },
-  {
-    offerPrice: 940,
-    actualPrice: "959",
-    rating: 2,
-    name: "sandal",
-    image: [
-      "https://i8.amplience.net/i/office/2840700000_md1.jpg?$newhighres$",
-    ],
-  },
-];
+]

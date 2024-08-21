@@ -1,5 +1,7 @@
 .card{
-    padding: 20px;
+    padding: 10px;
+    object-fit: contain;
+    height: 230px;
 }
 .card>.card__image>img{
     width: 200px;
@@ -47,7 +49,7 @@ p{
 }
 .contentDet>.card__size{
     opacity: 0;
-    position: absolute;
+    position: relative;
     transition: 0.5s;
 
 }
